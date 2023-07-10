@@ -1,5 +1,4 @@
 body {
-    font-family: 'one piece font', Arial, Helvetica, sans-serif;
     color: white;
     background-color: black;
 }
@@ -45,6 +44,7 @@ body::before{
 }
 
 .titulo {
+    font-family: 'one piece font', Arial, Helvetica, sans-serif;
     font-size: 20px;
     letter-spacing: 0.3em;
     text-transform: uppercase;
@@ -71,11 +71,13 @@ body::before{
     height: 430px;
 }
 .nome-personagem{
+    font-family: 'one piece font', Arial, Helvetica, sans-serif;
     border-bottom: 2px solid #f63d3d;
     letter-spacing: 0.3em;
     text-transform: uppercase;
 }
 .descricao{
+    font-family: 'CheGuevaraGolden-Serif' ,Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 22px;
     text-align: center;
