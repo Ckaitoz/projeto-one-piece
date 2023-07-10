@@ -23,12 +23,12 @@
         width: 350px;
         height: 350px;
     }
-    .descrição{
+    .descricao{
         width: 80%;
         margin: 20px auto;
     }
     body::before{
         width: 100%;
-        height: 175%;
+        height: 100%;
     }
 }
