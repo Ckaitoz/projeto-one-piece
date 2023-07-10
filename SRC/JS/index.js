@@ -32,5 +32,5 @@ function alterarImagemPersonagemSelecionado(personagem) {
     const imagemPersonagemGrande = document.querySelector('.personagem-grande');
 
     const idPersonagem = personagem.attributes.id.value;
-    imagemPersonagemGrande.src = `./SRC/imagens1/${idPersonagem}.webp`;
+    imagemPersonagemGrande.src = `SRC/imagens1/${idPersonagem}.webp`;
 }
